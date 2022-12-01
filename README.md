@@ -1,5 +1,5 @@
 
-Project url: https://reactplayerapp.ccbp.tech
+Project url: https://videoplayerapp.ccbp.tech
 # Third-Party Packages
 
 - Third-Party Packages
